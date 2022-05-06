@@ -327,7 +327,7 @@ display: block;
 }
 
 .Targets-column:hover{
-    box-shadow: 0 0 20px 8px rgba(17, 16, 16, 0.397);
+    box-shadow: 0 0 20px 8px rgba(16, 17, 17, 0.397);
 }
 
 .Targets-column img:hover{
@@ -358,7 +358,7 @@ display: block;
 }
 
 .icons{
-color: rgb(0, 0, 0);
+color: rgb(124, 203, 223);
 font-size: 30px;
 }
 
