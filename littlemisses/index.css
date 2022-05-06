@@ -67,10 +67,12 @@ nav img{
      position: relative;
 }
 .nav-links ul li a{
-    color: rgb(223, 98, 212);
+    color: rgb(233, 138, 225);
     text-decoration: none;
-    font-size: 38px;
+    font-size: 30px;
     display: block;
+    margin-top: -100;
+    margin-right: -18;
 }
 
 .nav-links ul li::after{
