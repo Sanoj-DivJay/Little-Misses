@@ -47,6 +47,8 @@ nav{
 nav img{
     width: 250px; 
     opacity: 100%;  
+    margin-left: -100;
+    margin-top: -30;
 }
 
 .nav-links{
