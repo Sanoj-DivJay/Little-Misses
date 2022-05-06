@@ -8,7 +8,7 @@
 {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(245, 117, 206, 0.479),rgba(232, 113, 236, 0.479)),url(Images/homepage.jpeg);
+    background-image: linear-gradient(rgba(245, 117, 206, 0),rgba(232, 113, 236, 0)),url(images/0.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
