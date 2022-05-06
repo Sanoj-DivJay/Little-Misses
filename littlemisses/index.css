@@ -8,7 +8,7 @@
 {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.479),rgba(4, 9, 30, 0.479)),url(Images/homepage.jpeg);
+    background-image: linear-gradient(rgba(245, 117, 206, 0.479),rgba(232, 113, 236, 0.479)),url(Images/homepage.jpeg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -65,7 +65,7 @@ nav img{
      position: relative;
 }
 .nav-links ul li a{
-    color: #fff;
+    color: rgb(236, 240, 241);
     text-decoration: none;
     font-size: 28px;
     display: block;
@@ -75,7 +75,7 @@ nav img{
     content: "";
     width: 0%;
     height: 4px;
-    background: #0a9cb6;
+    background: #b666b2ec;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -229,7 +229,7 @@ nav .fa{
 .ebook-column
 {
 flex-basis: 20%;
-background: #325272c2;
+background: #ce88bcc2;
 border-radius: 12px;
 margin-bottom: 20px;
 padding: 15px 18px;
@@ -244,11 +244,11 @@ display: block;
 }
 
 .ebook-column:hover{
-    box-shadow: 0 0 20px 8px rgba(17, 17, 17, 0.397);
+    box-shadow: 0 0 20px 8px rgba(201, 13, 169, 0.397);
 }
 
 .ebook-column img:hover{
-    box-shadow: 0 0 20px 12px rgba(255, 255, 255, 0.281);
+    box-shadow: 0 0 20px 12px rgba(219, 32, 163, 0.281);
 }
 
 @media(max-width: 750px){
