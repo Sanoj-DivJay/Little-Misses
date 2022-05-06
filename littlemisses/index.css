@@ -235,7 +235,7 @@ nav .fa{
 flex-basis: 20%;
 background: #ce88bcc2;
 border-radius: 12px;
-margin-bottom: 20px;
+margin-bottom: 30px;
 padding: 15px 18px;
 transition: 0.65s;
 box-sizing: border-box;
@@ -243,7 +243,7 @@ box-sizing: border-box;
 
 .column img
 {
-width: 100%;
+width: 200%;
 display: block;
 }
 
