@@ -212,9 +212,9 @@ nav .fa{
 
 .Ebooks{
     width:80%;
-    margin-left: 50px;
+    margin-left: 40px;
     
-    text-align: center;
+    
     padding-top: 70px;
     padding-bottom: 50px;
 }
@@ -223,7 +223,8 @@ nav .fa{
     font-size: 80px;
     font-weight: 600;
     color: #e678dc;
-    text-align: center;
+    text-anchor: middle;
+   
 }
 
 /* .row
