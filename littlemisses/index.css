@@ -226,6 +226,9 @@ nav .fa{
     font-weight: 600;
     color: #e678dc;
     text-anchor: middle;
+    display:grid;
+    place-content: center;
+    margin:auto;
    
 }
 
