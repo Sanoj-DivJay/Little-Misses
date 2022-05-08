@@ -67,12 +67,13 @@ nav img{
      position: relative;
 }
 .nav-links ul li a{
-    color: rgb(97, 35, 92);
+    color: rgb(112, 5, 107);
     text-decoration: none;
     font-size: 40px;
     display: block;
     margin-top: -150;
     margin-right: -12;
+    
     
     
 }
@@ -81,7 +82,7 @@ nav img{
     content: "";
     width: 0%;
     height: 4px;
-    background: #c582baec;
+    background: #82c1c5ec;
     display: block;
     margin: auto;
     transition: 0.5s;
@@ -224,11 +225,8 @@ nav .fa{
 .Ebooks h1{
     font-size: 80px;
     font-weight: 600;
-    color: #e678dc;
-    text-anchor: middle;
-    display:grid;
-    place-content: center;
-    margin:auto;
+    color: #e798e1;
+    padding-left: 200px;
    
 }
 
